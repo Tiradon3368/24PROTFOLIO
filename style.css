@@ -1,0 +1,35 @@
+#bgurl {
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#bgurl img{
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+.textH{
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 55px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.bgcolor {
+    background-color: #287BC8;
+}
+.text{
+    color: white    ;
+}
+.btn1{
+    width: 180px;
+    height: 50px;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+}
