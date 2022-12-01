@@ -1,0 +1,60 @@
+.navbar{
+    background-color: #287BC8;
+}
+.textNav{
+    color: white;
+}
+.btn1{
+    width: 180px;
+    height: 50px;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.pic1{
+    background-image: url("picPepsl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 750px;
+}
+
+.btn2{
+    width: 300px;
+    height: 80px;
+    background-color: #287BC8;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-top: 29%;
+    font-size: 200%;
+}
+.bgpic{
+    background-color: gray;
+}
+.img{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.text{
+    margin-top: 10%;
+}
+.text2 p{
+    padding-top: 10%;
+    font-size: 180%;
+}
+.btn3{
+    width: 300px;
+    height: 80px;
+    background-color: #287BC8;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-top: 29%;
+    font-size: 200%;
+}
+.btn{
+    padding-left: 30%;
+    padding-bottom: 10%;
+}
