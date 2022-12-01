@@ -32,4 +32,11 @@ h2 {
     background-color: black;
     border: none;
     border-radius: 10px;
+    color: white;
+}
+.navbar{
+    background-color: #287BC8;
+}
+.textNav{
+    color: white;
 }
