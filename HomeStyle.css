@@ -35,6 +35,7 @@
     background-color: gray;
 }
 .img{
+    text-align: center;
     margin-top: 10%;
     margin-bottom: 10%;
 }
@@ -54,6 +55,15 @@
     color: white;
     font-size: 200%;
 }
-.btncongfig{
 
+.footer{
+    background-color: #287BC8;
+    width: auto;
+    height: 50%;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.textF1{
+    padding-right: 12%;
 }
