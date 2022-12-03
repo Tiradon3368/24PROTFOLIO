@@ -1,10 +1,12 @@
-.navbar{
+.navbar {
     background-color: #287BC8;
 }
-.textNav{
+
+.textNav {
     color: white;
 }
-.btn1{
+
+.btn1 {
     width: 180px;
     height: 50px;
     background-color: black;
@@ -12,7 +14,8 @@
     border-radius: 10px;
     color: white;
 }
-.pic1{
+
+.pic1 {
     background-image: url("picPepsl.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -20,7 +23,7 @@
     height: 750px;
 }
 
-.btn2{
+.btn2 {
     width: 300px;
     height: 80px;
     background-color: #287BC8;
@@ -30,23 +33,32 @@
     margin-top: 29%;
     padding-bottom: auto;
     font-size: 200%;
+
+    display:inline-block;
+    text-decoration:none;
+    text-align:center;
 }
-.bgpic{
+
+.bgpic {
     background-color: gray;
 }
-.img{
+
+.img {
     text-align: center;
     margin-top: 10%;
     margin-bottom: 10%;
 }
-.text{
+
+.text {
     margin-top: 10%;
 }
-.text2 p{
+
+.text2 p {
     padding-top: 10%;
     font-size: 180%;
 }
-.btn3{
+
+.btn3 {
     width: 300px;
     height: 80px;
     background-color: #287BC8;
@@ -56,7 +68,7 @@
     font-size: 200%;
 }
 
-.footer{
+.footer {
     background-color: #287BC8;
     width: auto;
     height: 50%;
@@ -64,6 +76,8 @@
     padding-top: 5%;
     padding-bottom: 5%;
 }
-.textF1{
+
+.textF1 {
     padding-right: 12%;
 }
+
