@@ -43,22 +43,17 @@
     background-color: gray;
 }
 
-.img {
-    text-align: center;
-    margin-top: 10%;
-    margin-bottom: 10%;
-}
-
 .text {
     margin-top: 10%;
 }
 
 .text2 p {
     padding-top: 10%;
-    font-size: 180%;
+    /* font-size: 130%; */
+    font-size: clamp(12px, 2.5vw, 130%);
 }
 
-.btn3 {
+/* .btn3 {
     width: 300px;
     height: 80px;
     background-color: #287BC8;
@@ -66,7 +61,7 @@
     border-radius: 10px;
     color: white;
     font-size: 200%;
-}
+} */
 
 .footer {
     background-color: #287BC8;
@@ -81,3 +76,56 @@
     padding-right: 12%;
 }
 
+#btwh {
+    font-size: clamp(0.10px, 1vw, 50px);
+    border: none;
+    height: 350%;
+    letter-spacing: 0.5px;
+    line-height: 350%;
+    padding: 0px 1rem;
+    pointer-events: all;
+    position: relative;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    width: 20%;
+}
+
+#btwh2 {
+    font-size: clamp(0.50px, 1vw, 50px);
+    border: none;
+    height: 350%;
+    letter-spacing: 0.5px;
+    line-height: 350%;
+    padding: 0px 1rem;
+    pointer-events: all;
+    position: relative;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+    width: 50%;
+}
+
+
+#bodytextonpic {
+    text-align: left;
+    object-fit: cover;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.img {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.textF{
+    color: white;
+    font-size: clamp(12px, 2.5vw, 100%);
+}
+
+.hr{
+    border: 15px solid black;
+    
+}
