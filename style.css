@@ -42,13 +42,9 @@ h2 {
 }
 
 .card{
-    pointer-events: all;
-    position: relative;
-    text-decoration-line: none;
-    text-transform: uppercase;
-    vertical-align: middle;
+    size: clamp(12px, 2.5vw, 50px);
 }
 
-h3{
+h4{
     font-size: clamp(12px, 2.5vw, 50px);
 }
