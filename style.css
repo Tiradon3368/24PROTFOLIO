@@ -48,3 +48,6 @@ h2 {
 h4{
     font-size: clamp(12px, 2.5vw, 50px);
 }
+.card-body{
+    border-color: black;
+}
